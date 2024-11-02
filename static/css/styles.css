@@ -1,0 +1,73 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+    font-family: "Trebuchet MS","space mono", Arial, sans-serif;
+    background-color: #f4f4f9;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: #333;
+    flex-direction: column;
+}
+
+/* Container styling */
+.container {
+    background-color: #fff;
+    padding: 20px 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 500px;
+    text-align: center;
+}
+
+/* Heading styling */
+h2 {
+    margin-bottom: 30px;
+    color: #4a90e2;
+    text-align: center;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Textarea styling */
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* Button styling */
+button {
+    padding: 10px;
+    font-size: 16px;
+    background-color: #4a90e2;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #357abd;
+}
+
+/* Prediction result styling */
+h3 {
+    margin-top: 20px;
+    color: #333;
+}
