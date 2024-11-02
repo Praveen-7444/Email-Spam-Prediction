@@ -7,7 +7,7 @@ This is a Flask web application that classifies messages as either spam or ham u
 - Simple and user-friendly interface.
 
 ## Live Demo
-Check out the live version of the app here: [Spam or Ham Classifier]([https://your-deployment-url.com](https://email-spam-prediction-lno0.onrender.com))
+Check out the live version of the app here: [Spam or Ham Classifier](https://your-deployment-url.com](https://email-spam-prediction-lno0.onrender.com)
 
 ## How to Use
 1. Clone the repository and set up the environment.
